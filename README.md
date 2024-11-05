@@ -10,7 +10,8 @@ This is a guide on how to setup the project locally.
 
 ### Prerequisites
 
-- **Docker**: 1. Install Docker and Docker-Compose
+- **Docker**: 
+- Install Docker and Docker-Compose
 
 - [Docker Install documentation](https://docs.docker.com/install/)
 - [Docker-Compose Install documentation](https://docs.docker.com/compose/install/)
